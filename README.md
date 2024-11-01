@@ -11,6 +11,8 @@
     Unleash your creativity with Convertall – the ultimate online tool for unlimited and free multimedia conversion. Transform images, audio, and videos effortlessly, without restrictions. Start converting now and elevate your content like never before!
     </div>
 
+    <h3 align="center">Developer Joseph Precious (JPTech)</h3>
+
 </div>
 
 ## <a name="Features">🤯 Features</a>
